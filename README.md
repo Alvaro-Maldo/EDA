@@ -26,17 +26,35 @@ In order to adecuate the information from the website to a useful dataset, we ch
 
 In order to work throughout the data, we will use `pandas` library to correctly adress all the items and adecuate it correcly, this will be done in several phases. 
 
-### Data cleaning and Selection 
+### Data Cleaning and Selection 
 
-In order to provide useful information, we will clean the dataset obtained to adecuate possible NaN or null items, as my analysis is related to a time-series, and most of the null values in the datasets are related to this column, we will have to make an strategy to handle these kind of values. Since there is less than 1% of NaN values in the column, we will delete the erratic rows.
-
-<sub>Note that, since the Amazon prime dataset had a lot more NaNs, we will not continue with its analysis since we might have a biased result.</sub>
-
-and we will select the 3 most valuable columns for our analysis:
+In order to provide useful information, we will first select to then clean the dataset obtained adecuating possible NaN or null items, as my analysis is related to a time-series, I selected the 3 most valuable columns that will help me at my analysis:
 
 - `Type` (In order to differentiate between movies and TV shows)
 - `Title` (As an indentifier of the content)
 - `Date_added` (When the content was launched)
+
+As most of the datasets are from 2020, or the data from previous years is doubtfully addressed, we will also clean previous data, obtaining content from 2020 and 2021.
+
+In terms of cleaning and adecuating data, as most of the null values in the datasets are related to `Date_added` columns, we will need to have to make an strategy to handle these kind of values. Since there is less than 1% of NaN values in the column, we will delete the erratic rows.
+
+<sub>(Note that, since the Amazon prime dataset had a lot more NaNs, we will not continue with its analysis since we might have a biased result.)</sub>
+
+
+### Data Handling and Mining
+
+Once we had our Dataset cleaned, we will now adecuate it to be addressed correctly. To do so we will address the `Date_added` columns as a `pandas.to_datetime` in order to be recognized as a time-series object.
+
+Lastly, and to be provided with more information, we will merge both Imdb rating datasets in an outer form, as this will also provide us with information about if the content launched is top quality or not (as a quality measure of the company)
+
+
+## Data Visualization and Insights
+
+In order to see any patterns and make usefull insights about the data, we will lean on `plotly`, as it has more visual interactive information and I found it more interesting in this project than using `seaborn` or `matplotlib`. 
+
+To have a wide perspective of any trends the companies may have when launching content, I decided to group the data in 15 days, making it easier to see if there is any time over the year where it is prefferred to be launched a film or TV Show.
+
+After analyzing it, these are the charts [.](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/MarketLaunch.png)
 
 
 
