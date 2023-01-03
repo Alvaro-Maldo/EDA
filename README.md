@@ -65,7 +65,7 @@ After analyzing the TV Shows launches in Netflix, we can state that there are no
 
 When analyzing the films, something happens:
 
-![hi](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/Series%20Netflix_Analysis.PNG)
+![hi](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/Series%20Netflix_analysis.PNG)
 <sub> Films launchs in Netflix </sub>
 
 The have a different schema, mantaining the 2-3 months of periodicity, and even extending, but, what is even more interesting is that we could identify an outlier in terms of launchs, that is directly correlated with the instauration of Disney+ platform, and, we could understand this situation as a "response" to this event.
