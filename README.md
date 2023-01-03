@@ -74,6 +74,8 @@ The have a different schema, mantaining the 2-3 months of periodicity, and even 
 When we analyse the content launched between all companies, we can then see more clearly if there is any trend they may follow when one of the competitors try tuo upload "an unsual amount of content".
 
 ![hi](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/Analysis%20market.PNG)
+<sub> Market content launchs</sub>
+
 
 We can now see there are situations where there is one platflorm trying to "disrupt" by launching a lot of content compared to their competitors and how they, on the consequtive period, adapted and make a response, so it is clear they have not just internal decisions but they are also aware of the market when deciding how many content is needed to be launched.
 
