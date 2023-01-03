@@ -70,9 +70,6 @@ When analyzing the films, something happens:
 ![hi](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/Series%20Netflix_analysis.PNG)
 <sub> Films launchs in Netflix </sub>
 
-\n
-\n
-\n
 
 The have a different schema, mantaining the 2-3 months of periodicity, and even extending, but, what is even more interesting is that we could identify an outlier in terms of launchs, that is directly correlated with the instauration of Disney+ platform, and, we could understand this situation as a "response" to this event.
 
@@ -81,7 +78,6 @@ When we analyse the content launched between all companies, we can then see more
 
 ![hi](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/Analysis%20market.PNG)
 <sub> Market content launchs</sub>
-/n
 
 We can now see there are situations where there is one platflorm trying to "disrupt" by launching a lot of content compared to their competitors and how they, on the consequtive period, adapted and make a response, so it is clear they have not just internal decisions but they are also aware of the market when deciding how many content is needed to be launched.
 
