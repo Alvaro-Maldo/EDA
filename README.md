@@ -56,8 +56,25 @@ In order to see any patterns and make usefull insights about the data, we will l
 
 To have a wide perspective of any trends the companies may have when launching content, I decided to group the data in 15 days, making it easier to see if there is any time over the year where it is prefferred to be launched a film or TV Show.
 
-After analyzing it, we can state that there are no seasonal trends when launching content, we may see a 2-3 months cycles.
 
 ![hi](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/Film%20Netflix_Analysis.PNG)
+<sub> TV shows launchs in Netflix </sub>
+
+After analyzing the TV Shows launches in Netflix, we can state that there are no seasonal trends in terms, since each year has different quantities of videostreaming information at the same months, what we may see is 2-3 months cycles between having a huge launching momentum. We can also identify some outliers that may suggest us this uploads may have some marketing purposes.
+
+
+When analyzing the films, something happens:
+
+![hi](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/Series%20Netflix_Analysis.PNG)
+<sub> Films launchs in Netflix </sub>
+
+The have a different schema, mantaining the 2-3 months of periodicity, and even extending, but, what is even more interesting is that we could identify an outlier in terms of launchs, that is directly correlated with the instauration of Disney+ platform, and, we could understand this situation as a "response" to this event.
+
+
+When we analyse the content launched between all companies, we can then see more clearly if there is any trend they may follow when one of the competitors try tuo upload "an unsual amount of content".
+
+![hi](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/Analysis%20market.PNG)
+
+We can now see there are situations where there is one platflorm trying to "disrupt" by launching a lot of content compared to their competitors and how they, on the consequtive period, adapted and make a response, so it is clear they have not just internal decisions but they are also aware of the market when deciding how many content is needed to be launched.
 
 
