@@ -58,6 +58,6 @@ To have a wide perspective of any trends the companies may have when launching c
 
 After analyzing it, we can state that there are no seasonal trends when launching content, we may see a 2-3 months cycles.
 
-
+![hi](/data/Charts/Film Netflix_Analysis.PNG)
 
 
