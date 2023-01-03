@@ -54,7 +54,8 @@ In order to see any patterns and make usefull insights about the data, we will l
 
 To have a wide perspective of any trends the companies may have when launching content, I decided to group the data in 15 days, making it easier to see if there is any time over the year where it is prefferred to be launched a film or TV Show.
 
-After analyzing it, these are the charts [.](https://raw.githubusercontent.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/main/data/Charts/MarketLaunch.png)
+After analyzing it, these are the charts and their analysis.
+
 
 
 
