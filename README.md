@@ -2,7 +2,7 @@
 
 VideoStreaming is one of the [most evolved](https://www.statista.com/outlook/dmo/digital-media/video-on-demand/video-streaming-svod/worldwide#revenue) markets nowadays, mixing an emerging business model based of recurring payments with an innovative enterteinment idea, where you can find any movie or series without leaving home.
 
-My approach with this analysis is to observe if there is any seasonal trend in terms of launching more content at some point over the year (maybe and also to identify any possible strategies against their competitors.
+My approach with this analysis is to observe if there is any seasonal trend in terms of launching more content at some points over the year (maybe is optimal to launch TV shows during summer as the people don't have a "routine" as when they are working) on doing and also to identify any possible strategies against their competitors.
 
 
 
