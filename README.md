@@ -38,9 +38,9 @@ As my analysis is just focused on time-series and type of content (either if it 
 - `Date_added` (When the content was launched)
 
 
-In terms of cleaning and adecuating data, I found out that the dataset contained missing values, mostly related to `Date_added` columns, needing to make an strategy to handle these kind of values. Since there is less than 1% of NaN values in the column, we will just delete the erratic rows.
+In terms of cleaning and adecuating data, I found out that the dataset contained missing values, mostly related to `Date_added` columns, needing to make an strategy to handle these kind of values. Since there is less than 1% of NaN values in the column, we will just delete the erratic rows.[^1]
 
-<sub>(Note that, since the Amazon Prime dataset had a lot more missings (>60%), we will not continue with its analysis since we might have a biased result.)</sub>
+[^1]: (Note that, since the Amazon Prime dataset had a lot more missings (>60%), we will not continue with its analysis since we might have a biased result.)
 
 
 ### Data Handling and Mining
