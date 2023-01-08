@@ -1,6 +1,6 @@
 # Netflix Exploratory Content Launch Analysis 
 
-VideoStreaming is one of the [most evolved](https://www.statista.com/outlook/dmo/digital-media/video-on-demand/video-streaming-svod/worldwide#revenue) markets nowadays, mixing an emerging business model based of recurring payments with an innovative enterteinment idea, where you can find any movie or series without leaving home.
+VideoStreaming is one of the [most evolved](https://www.statista.com/outlook/dmo/digital-media/video-on-demand/video-streaming-svod/worldwide#revenue) markets nowadays, mixing an emerging business model based of recurring payments with an innovative idea, where you can find any movie or series without leaving home.
 
 My approach with this exploratory data analysis is to determine if the companies follow is any seasonal trend in terms of launching content (maybe is optimal to launch more films during summer as the people don't have a "routine" as when they are working) on doing and also to identify any possible strategies against their competitors.
 
