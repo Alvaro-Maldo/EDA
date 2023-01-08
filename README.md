@@ -1,8 +1,8 @@
 # Netflix Exploratory Content Launch Analysis 
 
-VideoStreaming is one of the [most evolved](https://www.statista.com/outlook/dmo/digital-media/video-on-demand/video-streaming-svod/worldwide#revenue) markets nowadays, mixing an emerging business model based of recurring payments with an innovative idea, where you can find any movie or series without leaving home.
+VideoStreaming is one of the [most developed](https://www.statista.com/outlook/dmo/digital-media/video-on-demand/video-streaming-svod/worldwide#revenue) markets nowadays, which mixes an emerging business model based on recurring payments with an innovative idea where you can find any movies or TV shows without leaving home.
 
-My approach with this exploratory data analysis is to determine if the companies follow is any seasonal trend in terms of launching content (maybe is optimal to launch more films during summer as the people don't have a "routine" as when they are working) on doing and also to identify any possible strategies against their competitors.
+My approach to this exploratory data analysis is to determine if companies follow any seasonal trends in terms of launching content (maybe it is optimal to launch more films during summer vacation than when they are working since they don't have a routine) and also to identify any possible strategies taken by their competitors.
 
 
 
@@ -10,23 +10,23 @@ My approach with this exploratory data analysis is to determine if the companies
 
 For this exercise I am using a set of Kaggle Databases referring to all the content uploaded from [Netflix](https://www.kaggle.com/datasets/shivamb/netflix-shows), [Hulu](https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows), [Amazon Prime](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows) and [Disney +](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows). 
 
-As programming language I will use ``python``.
+For programming I will use ``python`` language code.
 
 
 
 
-### WebScrapping
+### Web Scraping
 
-Furthermore I decided it will make sense to cross my initial information with the top [movies](https://www.imdb.com/chart/top/?ref_=nv_mv_250) and [series](https://www.imdb.com/chart/toptv/?ref_=nv_tvv_250) in Imdb, in order to also have a quality perspective of the actual leading companies.
+Furthermore I decided it will make sense to unite my initial database with the top [movies](https://www.imdb.com/chart/top/?ref_=nv_mv_250) and [series](https://www.imdb.com/chart/toptv/?ref_=nv_tvv_250) in Imdb in order to also have an idea of the quality of the leading companies in the market.
 
-To transform the information from the website, I chose `BeautifulSoup` library, it can be seen at [this link](https://github.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/blob/main/notebooks/PelisTop250.ipynb).
-
-
+To extract the information from the website, I chose the `BeautifulSoup` library which can be seen [here](https://github.com/NotCorrectlyDonated/Netflix_Exploratory_Analysis/blob/main/notebooks/PelisTop250.ipynb).
 
 
-## Data Cleaning & Wrangling
 
-To work throughout the data, I used `pandas` library, following different phases:
+
+## Data Handling
+
+To work on the data, I used `pandas` library, following different phases:
 
 
 ### Data Cleaning and Selection 
